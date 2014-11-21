@@ -1,0 +1,14 @@
+c:\users\user1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\bin\Debug\Bolt Spam.exe.config
+c:\users\user1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\bin\Debug\Bolt Spam.exe
+c:\users\user1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\bin\Debug\Bolt Spam.pdb
+c:\users\user1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\bin\Debug\Bolt Spam.xml
+c:\users\user1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\obj\Debug\Bolt_Spam.Form1.resources
+c:\users\user1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\obj\Debug\Bolt_Spam.Resources.resources
+c:\users\user1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\obj\Debug\Bolt Spam.vbproj.GenerateResource.Cache
+c:\users\user1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\obj\Debug\Bolt Spam.exe
+c:\users\user1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\obj\Debug\Bolt Spam.xml
+c:\users\user1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\obj\Debug\Bolt Spam.pdb
+C:\Users\User1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\obj\Debug\Bolt_Spam.Form3.resources
+C:\Users\User1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\obj\Debug\Bolt_Spam.Form2.resources
+C:\Users\User1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\bin\Debug\AutomaticUpdater.dll
+C:\Users\User1\documents\visual studio 2013\Projects\Bolt Spam\Bolt Spam\bin\Debug\AutomaticUpdater.xml
